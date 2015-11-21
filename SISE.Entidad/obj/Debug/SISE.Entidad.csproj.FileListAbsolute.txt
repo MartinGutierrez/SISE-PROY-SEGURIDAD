@@ -1,0 +1,4 @@
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Entidad\bin\Debug\SISE.Entidad.dll
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Entidad\bin\Debug\SISE.Entidad.pdb
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Entidad\obj\Debug\SISE.Entidad.dll
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Entidad\obj\Debug\SISE.Entidad.pdb
