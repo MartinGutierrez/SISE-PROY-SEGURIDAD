@@ -40,7 +40,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="LConsultasAct3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SISE.Comun\SISE.Comun.csproj">
+      <Project>{9a3531c1-d0cb-48b9-86f7-f96450b16811}</Project>
+      <Name>SISE.Comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SISE.Datos\SISE.Datos.csproj">
+      <Project>{731fc1ce-75c0-4ece-a5d9-3a7eb1aecc46}</Project>
+      <Name>SISE.Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SISE.Entidad\SISE.Entidad.csproj">
+      <Project>{00009c87-9381-4f5b-9772-9fa5b6e38471}</Project>
+      <Name>SISE.Entidad</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

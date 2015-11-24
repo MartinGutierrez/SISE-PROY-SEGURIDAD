@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SISE.Entidad
 {
-    class Perfiles
+    public class Perfiles
     {
         public int PERFIL_ID { set; get; }                   //PERFIL_ID INT,
         public string PERFIL_DESCRIPCION { set; get; }       //PERFIL_DESCRIPCION VARCHAR(100),

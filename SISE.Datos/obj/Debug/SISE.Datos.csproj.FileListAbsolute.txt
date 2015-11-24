@@ -1,0 +1,7 @@
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\bin\Debug\SISE.Datos.dll
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\bin\Debug\SISE.Datos.pdb
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\bin\Debug\SISE.Entidad.dll
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\bin\Debug\SISE.Entidad.pdb
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\obj\Debug\SISE.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\obj\Debug\SISE.Datos.dll
+C:\Users\Itran\Desktop\PROYECTO_SEGURIDAD\SISE.WEB\SISE.Datos\obj\Debug\SISE.Datos.pdb
