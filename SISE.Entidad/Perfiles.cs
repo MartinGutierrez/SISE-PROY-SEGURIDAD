@@ -8,6 +8,7 @@ namespace SISE.Entidad
 {
     public class Perfiles
     {
+        //
         public int PERFIL_ID { set; get; }                   //PERFIL_ID INT,
         public string PERFIL_DESCRIPCION { set; get; }       //PERFIL_DESCRIPCION VARCHAR(100),
         public string PERFIL_P_RANGO_HORARIO { set; get; }   //PERFIL_P_RANGO_HORARIO CHAR(1),
