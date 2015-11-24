@@ -10,7 +10,7 @@ namespace SISE.Logica
 {
     class LConsultasAct3
     {
-        // --------------- OPERACIONES PARA LA ACTIVIDAD NUMERO 3 -----------------
+        // --------------- OPERACIONES PARA LA ACTIVIDAD NUMERO 3 ---------------------
         clsConsultasAct3 cls = new clsConsultasAct3();
         public List<Aplicacion> getAplicaciones() {
             return cls.ObtenerAplicaciones();
